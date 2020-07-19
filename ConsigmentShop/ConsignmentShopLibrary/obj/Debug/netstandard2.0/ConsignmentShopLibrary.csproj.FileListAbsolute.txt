@@ -1,0 +1,9 @@
+C:\Users\pmaeda\Documents\ConsigmentShop\ConsignmentShopLibrary\bin\Debug\netstandard2.0\ConsignmentShopLibrary.deps.json
+C:\Users\pmaeda\Documents\ConsigmentShop\ConsignmentShopLibrary\bin\Debug\netstandard2.0\ConsignmentShopLibrary.dll
+C:\Users\pmaeda\Documents\ConsigmentShop\ConsignmentShopLibrary\bin\Debug\netstandard2.0\ConsignmentShopLibrary.pdb
+C:\Users\pmaeda\Documents\ConsigmentShop\ConsignmentShopLibrary\obj\Debug\netstandard2.0\ConsignmentShopLibrary.csprojAssemblyReference.cache
+C:\Users\pmaeda\Documents\ConsigmentShop\ConsignmentShopLibrary\obj\Debug\netstandard2.0\ConsignmentShopLibrary.AssemblyInfoInputs.cache
+C:\Users\pmaeda\Documents\ConsigmentShop\ConsignmentShopLibrary\obj\Debug\netstandard2.0\ConsignmentShopLibrary.AssemblyInfo.cs
+C:\Users\pmaeda\Documents\ConsigmentShop\ConsignmentShopLibrary\obj\Debug\netstandard2.0\ConsignmentShopLibrary.csproj.CoreCompileInputs.cache
+C:\Users\pmaeda\Documents\ConsigmentShop\ConsignmentShopLibrary\obj\Debug\netstandard2.0\ConsignmentShopLibrary.dll
+C:\Users\pmaeda\Documents\ConsigmentShop\ConsignmentShopLibrary\obj\Debug\netstandard2.0\ConsignmentShopLibrary.pdb
